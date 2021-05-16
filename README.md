@@ -1,2 +1,2 @@
 # aprendiendo
-Primea vez que subo un repository
+Primera vez que subo un repository
